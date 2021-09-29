@@ -50,7 +50,7 @@ const ball = {
     x: cvs.width / 2,
     y: cvs.height / 2,
     r: 13,
-    color: '#a51890',
+    color: '#ddd',
     speed: 5,
     velocityX: 3,
     velocityY: 4,
